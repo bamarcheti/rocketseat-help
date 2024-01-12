@@ -1,10 +1,17 @@
-import { Heading, HStack, IconButton, useTheme, StyledProps } from 'native-base';
-import { CaretLeft } from 'phosphor-react-native';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation } from "@react-navigation/native";
+import {
+  HStack,
+  Heading,
+  IconButton,
+  StyledProps,
+  useTheme,
+} from "native-base";
+import { CaretLeft } from "phosphor-react-native";
+import React from "react";
 
 type Props = StyledProps & {
   title: string;
-}
+};
 
 export function Header({ title, ...rest }: Props) {
   const { colors } = useTheme();
@@ -29,7 +36,13 @@ export function Header({ title, ...rest }: Props) {
         onPress={handleGoBack}
       />
 
-      <Heading color="gray.100" textAlign="center" fontSize="lg" flex={1} ml={-6}>
+      <Heading
+        color="gray.100"
+        textAlign="center"
+        fontSize="lg"
+        flex={1}
+        ml={-6}
+      >
         {title}
       </Heading>
     </HStack>
