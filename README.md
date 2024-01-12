@@ -1,6 +1,6 @@
 # **Rocket Help**
 
-![preview](./.github/preview.png)
+![image](https://user-images.githubusercontent.com/71537090/180229286-99fc72fa-8038-4233-a4d7-8e3da758b1cb.png)
 
 Projeto construído durante o Ignite Lab da Rocketseat com objetivo da criação de chamados e resolução de problemas de TI.
 
