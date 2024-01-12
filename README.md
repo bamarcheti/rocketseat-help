@@ -8,13 +8,11 @@ Projeto construído durante o Ignite Lab da Rocketseat com objetivo da criação
 
 ## **🛠 Tecnologias**
 
-> ### _Mobile_
->
-> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) > ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) > ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
->
-> ### _Pacotes e extensões_
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- React Navigatio
+### _Pacotes e extensões_
+
+- React Navigation
 - Expo Bare Workflow
 - Firebase Auth
 - Firebase Firestone
